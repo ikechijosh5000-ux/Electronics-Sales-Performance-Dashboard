@@ -3,7 +3,7 @@
 This report provides a comprehensive analysis of the electronics sales data visualized in the dashboard. The dashboard includes key performance indicators (KPIs) such as profit, total sales, cost of goods sold (COGS), and detailed breakdowns by region, product, sales representative, and sales channel.
 
 ## Dataset used
-. <a href ="https://github.com/ikechijosh5000-ux/Electronics-Sales-Performance-Dashboard/blob/main/Electronic_Data.pbix"> Electronic_Dataset</a>
+- <a href ="https://github.com/ikechijosh5000-ux/Electronics-Sales-Performance-Dashboard/blob/main/Electronic_Data.pbix"> Electronic_Dataset</a>
 ## 2. Objectives
 The primary objectives of this dashboard are to:
 
@@ -16,11 +16,11 @@ Analyze the distribution of COGS between online and in-store sales channels.
 Support data-driven decision-making for sales and operations teams.
 
 
-## 3. Key Performance Indicators (KPIs)
+## 3. 📊 Key Performance Indicators (KPIs)
 The dashboard highlights three core KPIs at the top for quick performance tracking:
 
 
-## 📊 Key Performance Indicators (KPIs)
+
 
 | KPI | Value | Description |
 |---|---:|---|
@@ -30,7 +30,7 @@ The dashboard highlights three core KPIs at the top for quick performance tracki
 
 
 
-<a href ="https://github.com/ikechijosh5000-ux/Electronics-Sales-Performance-Dashboard/blob/main/Screenshot%202026-10-15%20155107.png">Dashboard link</a>
+- <a href ="https://github.com/ikechijosh5000-ux/Electronics-Sales-Performance-Dashboard/blob/main/Screenshot%202026-10-15%20155107.png">Dashboard link</a>
 
   ## 4. Dashboard Preview
   <img width="1699" height="778" alt="Screenshot 2026-10-15 155107" src="https://github.com/user-attachments/assets/50d5e65d-53e3-48c0-85a0-188cd1750155" />
