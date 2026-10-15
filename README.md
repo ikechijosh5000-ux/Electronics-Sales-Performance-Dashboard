@@ -45,3 +45,15 @@ The dashboard highlights three core KPIs at the top for quick performance tracki
 - Channel Parity: COGS is split 50/50 between Store and Online, reflecting a well-diversified sales strategy.
 
 
+
+## 🛠️ 9. Tools & Technologies Used
+
+| Tool/Technology | Purpose |
+|---|---|
+| [**Microsoft Power BI**](https://www.microsoft.com/power-platform/power-bi) | Data modeling, DAX calculations, and interactive dashboard development. |
+| **Power Query** | Data cleaning, transformation, and preparation. |
+| **DAX (Data Analysis Expressions)** | KPI calculations, measures, and aggregations. |
+| **CSV/Excel (Data Source)** | Raw sales data storage and import. |
+| **Markdown** | Project documentation and reporting. |
+
+
