@@ -26,3 +26,8 @@ Sum of COGS	$2.00B	Total Cost of Goods Sold incurred for all products sold.
 
 
 <a href ="https://github.com/ikechijosh5000-ux/Electronics-Sales-Performance-Dashboard/blob/main/Screenshot%202026-10-15%20155107.png">Dashboard link</a>
+
+  ## 4. Dashboard Preview
+  <img width="1699" height="778" alt="Screenshot 2026-10-15 155107" src="https://github.com/user-attachments/assets/50d5e65d-53e3-48c0-85a0-188cd1750155" />
+
+
