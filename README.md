@@ -14,3 +14,12 @@ Evaluate revenue contribution by region.
 Measure and compare profitability across sales representatives.
 Analyze the distribution of COGS between online and in-store sales channels.
 Support data-driven decision-making for sales and operations teams.
+
+
+## 3. Key Performance Indicators (KPIs)
+The dashboard highlights three core KPIs at the top for quick performance tracking:
+
+KPI	Value	Description
+Total Profit	$467M	Total net profit generated across all electronics sales.
+Total Sales	2K (2,000)	Total number of units/sales transactions recorded.
+Sum of COGS	$2.00B	Total Cost of Goods Sold incurred for all products sold.
