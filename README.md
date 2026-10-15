@@ -19,10 +19,15 @@ Support data-driven decision-making for sales and operations teams.
 ## 3. Key Performance Indicators (KPIs)
 The dashboard highlights three core KPIs at the top for quick performance tracking:
 
-KPI	Value	Description
-Total Profit	$467M	Total net profit generated across all electronics sales.
-Total Sales	2K (2,000)	Total number of units/sales transactions recorded.
-Sum of COGS	$2.00B	Total Cost of Goods Sold incurred for all products sold.
+
+## 📊 Key Performance Indicators (KPIs)
+
+| KPI | Value | Description |
+|---|---:|---|
+| **Total Profit** | $467M | Total net profit generated across all electronics sales. |
+| **Total Sales** | 2K (2,000) | Total number of units/sales transactions recorded. |
+| **Sum of COGS** | $2.00B | Total Cost of Goods Sold incurred for all products sold. |
+
 
 
 <a href ="https://github.com/ikechijosh5000-ux/Electronics-Sales-Performance-Dashboard/blob/main/Screenshot%202026-10-15%20155107.png">Dashboard link</a>
