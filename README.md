@@ -1,6 +1,16 @@
 # Electronics Sales Dashboard Report
-## Overview
+## 1 Overview
 This report provides a comprehensive analysis of the electronics sales data visualized in the dashboard. The dashboard includes key performance indicators (KPIs) such as profit, total sales, cost of goods sold (COGS), and detailed breakdowns by region, product, sales representative, and sales channel.
 
 ## Dataset used
 . <a href ="https://github.com/ikechijosh5000-ux/Electronics-Sales-Performance-Dashboard/blob/main/Electronic_Data.pbix"> Electronic_Dataset</a>
+## 2. Objectives
+The primary objectives of this dashboard are to:
+
+Track overall business performance using key sales KPIs.
+Analyze monthly sales trends to identify seasonality or demand fluctuations.
+Identify the best-selling and highest-performing products.
+Evaluate revenue contribution by region.
+Measure and compare profitability across sales representatives.
+Analyze the distribution of COGS between online and in-store sales channels.
+Support data-driven decision-making for sales and operations teams.
