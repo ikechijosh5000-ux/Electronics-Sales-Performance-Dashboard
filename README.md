@@ -1,10 +1,10 @@
 # Electronics Sales Dashboard Report
-## 1 Overview
+## 📌 1. Overview
 This report provides a comprehensive analysis of the electronics sales data visualized in the dashboard. The dashboard includes key performance indicators (KPIs) such as profit, total sales, cost of goods sold (COGS), and detailed breakdowns by region, product, sales representative, and sales channel.
 
 ## Dataset used
 - <a href ="https://github.com/ikechijosh5000-ux/Electronics-Sales-Performance-Dashboard/blob/main/Electronic_Data.pbix"> Electronic_Dataset</a>
-## 2. Objectives
+## 🎯 2. Objectives
 The primary objectives of this dashboard are to:
 
 Track overall business performance using key sales KPIs.
@@ -31,12 +31,10 @@ The dashboard highlights three core KPIs at the top for quick performance tracki
 
 
 - <a href ="https://github.com/ikechijosh5000-ux/Electronics-Sales-Performance-Dashboard/blob/main/Screenshot%202026-10-15%20155107.png">Dashboard link</a>
-
-  ## 4. Dashboard Preview
+## 📊 4. Dashboard Preview
   <img width="1699" height="778" alt="Screenshot 2026-10-15 155107" src="https://github.com/user-attachments/assets/50d5e65d-53e3-48c0-85a0-188cd1750155" />
 
-
-  ## 5. Key Findings
+## 🔍 5. Key Findings
 - Strong Profitability: $467M in profit against $2.00B in COGS indicates healthy gross margins.
 - Top Product Categories: Smartphones and Laptops dominate total sales, making them key focus products for inventory and marketing.
 - Regional Imbalance: West leads in revenue, while East has the lowest contribution among the three regions.
@@ -46,7 +44,7 @@ The dashboard highlights three core KPIs at the top for quick performance tracki
 
 
 
-## 🛠️ 9. Tools & Technologies Used
+## 🛠️ 6. Tools & Technologies Used
 
 | Tool/Technology | Purpose |
 |---|---|
