@@ -31,3 +31,12 @@ Sum of COGS	$2.00B	Total Cost of Goods Sold incurred for all products sold.
   <img width="1699" height="778" alt="Screenshot 2026-10-15 155107" src="https://github.com/user-attachments/assets/50d5e65d-53e3-48c0-85a0-188cd1750155" />
 
 
+  ## 5. Key Findings
+Strong Profitability: $467M in profit against $2.00B in COGS indicates healthy gross margins.
+Top Product Categories: Smartphones and Laptops dominate total sales, making them key focus products for inventory and marketing.
+Regional Imbalance: West leads in revenue, while East has the lowest contribution among the three regions.
+Sales Anomaly in May: The drastic drop to 16 sales is the most significant outlier and should be validated against the source data.
+Balanced Team Performance: Sales rep profits are consistent, showing minimal performance gaps.
+Channel Parity: COGS is split 50/50 between Store and Online, reflecting a well-diversified sales strategy.
+
+
